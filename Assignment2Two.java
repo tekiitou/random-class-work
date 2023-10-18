@@ -3,6 +3,13 @@ package compsci;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+The improved version of Assignment2. It has combined the modes to fit in a new mode, survival  :)
+Similarly allows user to pick a mode, and then accepts inputs for randomly generated math questions
+Has the option to play either addition & subtraction, multiplication & division, or survival mode which uses all 4. 
+*/
+
+
 public class Assignment2Two {
 
     /**
