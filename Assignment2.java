@@ -3,6 +3,12 @@ package compsci;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+A quick math test. Lets user pick what type of equation to practice and then accepts inputs 
+for the answer to randomly generated math questions. Has addition, subtraction, and multiplication. 
+Loops until user decides to exit the program by entering '4'
+*/
+
 public class Assignment2 {
 
     /**
